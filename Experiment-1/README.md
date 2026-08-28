@@ -1,4 +1,3 @@
-
 📊 Retail Sales Analysis using MySQL & Power BI
 📌 Project Overview
 
