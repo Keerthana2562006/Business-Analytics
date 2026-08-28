@@ -19,7 +19,7 @@ The objective of this project is to:
 
 Import business datasets into MySQL
 Connect MySQL with Power BI
-Create relationships between Sales, Products, and Customers
+Create relationships between Sales, Products, and Customers                                                  
 Prepare and transform the data
 Create an interactive Power BI dashboard
 Analyze sales performance using charts, KPI cards, and slicers
@@ -150,8 +150,8 @@ Interactive slicers allow users to filter the analysis by Country, Category, and
 
 Through this project, I learned:
 
-How to import CSV datasets into MySQL.
-How to connect MySQL with Power BI.
+How to import CSV datasets into MySQL.                                                                                                  
+How to connect MySQL with Power BI.                                                                                                    
 How to work with multiple tables.
 How to create relationships in Power BI.
 How to use Power Query for data preparation.
