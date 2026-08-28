@@ -3,11 +3,11 @@
 
 This project demonstrates how business datasets can be imported into MySQL and connected to Microsoft Power BI for data analysis and visualization.
 
-The project uses three main tables:
+The project uses three main tables:                                                                                                     
 
-Sales
-Products
-Customers
+Sales                                                                                                                                   
+Products                                                                                                                                
+Customers                                                                                                                               
 
 The data is prepared using Power Query, relationships are created between the tables, and DAX measures are used to calculate key business metrics.
 
@@ -17,12 +17,12 @@ A retail company stores its business data across multiple sources. Management re
 
 The objective of this project is to:
 
-Import business datasets into MySQL
-Connect MySQL with Power BI
-Create relationships between Sales, Products, and Customers                                                  
-Prepare and transform the data
-Create an interactive Power BI dashboard
-Analyze sales performance using charts, KPI cards, and slicers
+Import business datasets into MySQL                                                                                                     
+Connect MySQL with Power BI                                                                                                             
+Create relationships between Sales, Products, and Customers                                                                          
+Prepare and transform the data                                                                                                          
+Create an interactive Power BI dashboard                                                                                                
+Analyze sales performance using charts, KPI cards, and slicers                                                                               
 🗂️ Dataset
 
 The project uses three datasets:
