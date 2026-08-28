@@ -152,13 +152,13 @@ Through this project, I learned:
 
 How to import CSV datasets into MySQL.                                                                                                  
 How to connect MySQL with Power BI.                                                                                                    
-How to work with multiple tables.
-How to create relationships in Power BI.
-How to use Power Query for data preparation.
-How to create DAX measures and calculated columns.
-How to create KPI cards, charts, and slicers.
-How to design an interactive Power BI dashboard.
-How to present business data using meaningful visualizations.
+How to work with multiple tables.                                                                                                       
+How to create relationships in Power BI.                                                                                                
+How to use Power Query for data preparation.                                                                                            
+How to create DAX measures and calculated columns.                                                                                      
+How to create KPI cards, charts, and slicers.                                                                                           
+How to design an interactive Power BI dashboard.                                                                                        
+How to present business data using meaningful visualizations.                                                                                                                                                      
 👩‍💻 Author
 
 Keerthana R
