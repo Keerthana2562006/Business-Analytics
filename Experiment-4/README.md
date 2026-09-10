@@ -1,4 +1,3 @@
-
 ☕ Data Cleaning Using Power Query -- Dirty Cafe Sales
 
 📌 1. Project Title
@@ -232,3 +231,7 @@ Through this project, I learned:
 ✅ How to validate data quality.
 
 📊 How to prepare data for business analytics.****
+
+👩‍💻 Author
+Keerthana R
+Bachelor of Computer Applications Business Analytics – Semester V
